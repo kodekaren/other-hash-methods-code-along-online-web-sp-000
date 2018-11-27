@@ -9,5 +9,5 @@ grains: ["rice", "pasta"]
 }
 
 def get_the_values(groceries)
-  #code your solution here!
+  groceries.values#code your solution here!
 end
